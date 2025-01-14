@@ -1,0 +1,8 @@
+.venv/
+.Ds_Store
+Frame.png
+*.pyc
+.vscode/
+utils/__pycache__
+*.mp4
+*.mov
